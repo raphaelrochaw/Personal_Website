@@ -16,7 +16,7 @@ Click on the discipline name to be redirected to its files.
 
 ## [Introduction to Machine Learning - Regression Models](https://github.com/raphaelrochaw/regression)
 
-##[Introduction to Machine Learning - Classification Models](https://github.com/raphaelrochaw/classification)
+## [Introduction to Machine Learning - Classification Models](https://github.com/raphaelrochaw/classification)
 
-##[Design of Animal Studies](https://github.com/raphaelrochaw/design)
+## [Design of Animal Studies](https://github.com/raphaelrochaw/design)
 
