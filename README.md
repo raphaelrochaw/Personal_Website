@@ -1,4 +1,4 @@
-<img src="imagem_datascience2.png" width="1200" height="400" >
+<img src="imagem_datascience2.png" width="1200" height="400" />
 
 
 # **Raphael Rocha Wenceslau**  
