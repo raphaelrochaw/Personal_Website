@@ -12,11 +12,11 @@ Click on the discipline name to be redirected to its files.
 
 
 
-## [Data Analysis for Animal Studies](https://github.com/raphaelrochaw/classmaterial)
+## [Data Analysis for Animal Studies](https://github.com/raphaelrochaw/dataanalysis)
 
 ## [Introduction to Machine Learning - Regression Models](https://github.com/raphaelrochaw/regression)
 
-##[Introduction to Machine Learning - Classification Models]
+##[Introduction to Machine Learning - Classification Models](https://github.com/raphaelrochaw/classification)
 
-##[Design of Animal Studies]
+##[Design of Animal Studies](https://github.com/raphaelrochaw/design)
 
