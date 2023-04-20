@@ -1,4 +1,4 @@
-![](https://github.com/raphaelrochaw/website/imagem_datascience.png)
+![](imagem_datascience.png)
 
 
 # **Raphael Rocha Wenceslau**  
