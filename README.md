@@ -14,7 +14,7 @@ Click on the discipline name to be redirected to its files.
 
 ## [Data Analysis for Animal Studies](https://github.com/raphaelrochaw/classmaterial)
 
-## [Introduction to Machine Learning - Regression Models]
+## [Introduction to Machine Learning - Regression Models](https://github.com/raphaelrochaw/regression)
 
 ##[Introduction to Machine Learning - Classification Models]
 
