@@ -1,6 +1,7 @@
 # **Raphael Rocha Wenceslau**  
 ### Professor of Design and Analysis of Animal Experiments at Federal Universtity of Minas Gerais, Brazil
 
+
 Welcome!
 
 This is a site to make available all written materials for disciplines taught by me at the Veterinary School of the Federal University of Minas Gerais.
@@ -8,11 +9,14 @@ Feel free to browse the page and get all available codes. I strongly suggest tha
 The scripts are built to provide programming examples in the courses Data Analysis for Animal Studies, Introduction to Machine Learning - Regression Models, Introduction to Machine Learning - Classification Models and Design of Animal Studies.
 Click on the discipline name to be redirected to its files.
 
-##**[Data Analysis for Animal Studies]** (/https://github.com/raphaelrochaw/classmaterial)
 
-##**[Introduction to Machine Learning - Regression Models]**
 
-##**[Introduction to Machine Learning - Classification Models]**
 
-##**[Design of Animal Studies]**
+## [Data Analysis for Animal Studies](https://github.com/raphaelrochaw/classmaterial)
+
+## [Introduction to Machine Learning - Regression Models]
+
+##[Introduction to Machine Learning - Classification Models]
+
+##[Design of Animal Studies]
 
