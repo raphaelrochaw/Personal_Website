@@ -8,7 +8,7 @@ Feel free to browse the page and get all available codes. I strongly suggest tha
 The scripts are built to provide programming examples in the courses Data Analysis for Animal Studies, Introduction to Machine Learning - Regression Models, Introduction to Machine Learning - Classification Models and Design of Animal Studies.
 Click on the dsicipline name to be redirected to its files.
 
-##**[Data Analysis for Animal Studies]** 
+##**[Data Analysis for Animal Studies]** (https://github.com/raphaelrochaw/classmaterial)
 
 ##**[Introduction to Machine Learning - Regression Models]**
 
