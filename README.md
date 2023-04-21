@@ -1,6 +1,6 @@
 <img src="imagem_datascience2.png" width="1200" height="400" />
 
-## Raphael Rocha Wenceslau
+## Raphael Rocha Wenceslau  
 Professor of Design and Analysis of Animal Experiments at Federal Universtity of Minas Gerais, Brazil
 
 ---
@@ -19,5 +19,5 @@ Feel free to browse the page!
 
 ---
 ## Contact
-E-mail: <rwenceslau@hotmail.com>
-Institutional website: <https://vet.ufmg.br/professor/raphael-rocha-wenceslau>
+E-mail: <rwenceslau@hotmail.com>  
+Institutional website: <https://vet.ufmg.br/professor/raphael-rocha-wenceslau>  
