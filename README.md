@@ -1,16 +1,17 @@
 <img src="imagem_datascience2.png" width="1200" height="400" />
 
 
-# **Raphael Rocha Wenceslau**  
+# **Raphael Rocha Wenceslau - Personal Website**  
 ### Professor of Design and Analysis of Animal Experiments at Federal Universtity of Minas Gerais, Brazil
 
 
 Welcome!
 
-This is a site to make available all written materials for disciplines taught by me at the Veterinary School of the Federal University of Minas Gerais.
-Feel free to browse the page and get all available codes. I strongly suggest that you test and validate all code. Some issues may still remain because the scripts are under continuous development. I am not responsible for misuse by third parties.
-The scripts are built to provide programming examples in the courses Data Analysis for Animal Studies, Introduction to Machine Learning - Regression Models, Introduction to Machine Learning - Classification Models and Design of Animal Studies.
-Click on the discipline name to be redirected to its files.
+This is a website to serve as a repository for materials (codes, datasets, programs, etc...) used in the courses I teach at the Veterinary School of the Federal University of Minas Gerais. The material was written to provide programming examples in the courses Data Analysis for Animal Studies, Introduction to Machine Learning - Regression Models, Introduction to Machine Learning - Classification Models, and Design of Animal Studies.
+I strongly suggest that you test all codes before use, they were built for academic purposes only. Some issues may remain because the scripts are under continuous development. I will not be responsible for misuse by third parties.
+
+Click on the course name to be redirected to its files.
+Feel free to browse the page! 
 
 
 
