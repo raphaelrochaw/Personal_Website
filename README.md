@@ -1,10 +1,12 @@
 <img src="imagem_datascience2.png" width="1200" height="400" />
 
 
-# **Raphael Rocha Wenceslau - Personal Website**  
-### Professor of Design and Analysis of Animal Experiments at Federal Universtity of Minas Gerais, Brazil
+## Raphael Rocha Wenceslau - Personal Website  
+Professor of Design and Analysis of Animal Experiments at Federal Universtity of Minas Gerais, Brazil
 
 
+
+---
 Welcome!
 
 This is a website to serve as a repository for materials (codes, datasets, programs, etc...) used in the courses I teach at the Veterinary School of the Federal University of Minas Gerais. The material was written to provide programming examples in the courses Data Analysis for Animal Studies, Introduction to Machine Learning - Regression Models, Introduction to Machine Learning - Classification Models, and Design of Animal Studies.
@@ -15,7 +17,8 @@ Feel free to browse the page!
 
 
 
-
+---
+## Courses
 ### [Data Analysis for Animal Studies](https://github.com/raphaelrochaw/dataanalysis)
 
 ### [Introduction to Machine Learning - Regression Models](https://github.com/raphaelrochaw/regression)
@@ -26,10 +29,10 @@ Feel free to browse the page!
 
 
 
+---
+## Contact
+E-mail: <rwenceslau@hotmail.com>
 
-### Contact
-E-mail: rwenceslau@hotmail.com
-
-Institutional website: https://vet.ufmg.br/professor/raphael-rocha-wenceslau/
+Institutional website: <https://vet.ufmg.br/professor/raphael-rocha-wenceslau>
 
 
