@@ -15,11 +15,20 @@ Click on the discipline name to be redirected to its files.
 
 
 
-## [Data Analysis for Animal Studies](https://github.com/raphaelrochaw/dataanalysis)
+### [Data Analysis for Animal Studies](https://github.com/raphaelrochaw/dataanalysis)
 
-## [Introduction to Machine Learning - Regression Models](https://github.com/raphaelrochaw/regression)
+### [Introduction to Machine Learning - Regression Models](https://github.com/raphaelrochaw/regression)
 
-## [Introduction to Machine Learning - Classification Models](https://github.com/raphaelrochaw/classification)
+### [Introduction to Machine Learning - Classification Models](https://github.com/raphaelrochaw/classification)
 
-## [Design of Animal Studies](https://github.com/raphaelrochaw/design)
+### [Design of Animal Studies](https://github.com/raphaelrochaw/design)
+
+
+
+
+### Contact
+E-mail: rwenceslau@hotmail.com
+
+Institutional website: https://vet.ufmg.br/professor/raphael-rocha-wenceslau/
+
 
